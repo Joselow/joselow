@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy José Lou!
+# 👋 ¡Hola, soy Joselow!
 
 Soy desarrollador **Full Stack** con enfoque en **Vue.js, Node.js y Laravel**.  
 Me apasiona construir sistemas escalables y enseñar desarrollo web moderno a través de mi canal [🎥 joselowDev](https://youtube.com/@joselowdev).
@@ -23,7 +23,6 @@ Me apasiona construir sistemas escalables y enseñar desarrollo web moderno a tr
 - 💼 [LinkedIn](https://linkedin.com/in/joshep-manuel-macha-rutti-161127239)  
 - 🌐 [Portafolio](https://joselow.github.io/my_portfolio/)  
 - 🎥 [YouTube](https://youtube.com/@joselowdev)
-
 ---
 
 ✨ _“Code. Learn. Share.”_
