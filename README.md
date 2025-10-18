@@ -8,7 +8,7 @@ Me apasiona construir sistemas escalables y enseñar desarrollo web moderno a tr
 ### 🧠 Stack Principal
 - **Frontend:** Vue 3, TailwindCSS, TypeScript  
 - **Backend:** Node.js, Laravel, Express  
-- **Otros:** Git, Docker, PostgreSQL, Bootstrap  
+- **Otros:** Git, Express.js, PostgreSQL, MySql, React, Tailwind, Bootstrap  
 
 ---
 
